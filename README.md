@@ -6,7 +6,7 @@ Práctica 1 con UNITY 3D
 
 Prueba básica añadiendo GameObjects del menú estándar de Unity y Assets importados desde la Asset Store de Unity. Luz direccional añadida en tono rojizo y un controlador en tercera persona.
 
-![Starter Assets - Third Person Character Controller](https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526)
+[Starter Assets - Third Person Character Controller](https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526)
 
 
 
