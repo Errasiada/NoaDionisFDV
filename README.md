@@ -8,7 +8,7 @@ Unity Version: 2020.3.36f1
 Prueba básica añadiendo GameObjects del menú estándar de Unity y Assets importados desde la [Asset Store](https://assetstore.unity.com/?utm_source=google&utm_medium=cpc&utm_campaign=AS_AS_Assetstore_EMEA_FR_EN_N-A_SEM-GG_acquisition_BR-PR_2022-09_Evergreen_CC3022&utm_content=AS-CoreBrand&utm_term=asset%20store&gclid=CjwKCAjws--ZBhAXEiwAv-RNL6Orm9XGK5i31bYPLifJ7gZXTqeRt2yLPdt7TgdLWs-PX1FzEX4HKBoC7fUQAvD_BwE&gclsrc=aw.ds) de Unity. Luz direccional añadida en tono rojizo y un controlador en tercera persona.
 
 
-[Starter Assets - Third Person Character Controller](https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526) 
+[Starter Assets - Third Person Character Controller](https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526) - Controlador de pesonaje
 
 
 
