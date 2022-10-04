@@ -1,6 +1,4 @@
-# NoaDionisFDV
-FDV Repository
+# Fundamentos del Desarrollo de Videojuegos - FDV
+Noa Dionis Aragón FDV Repository
 
-Fundamentos del Desarrollo de Videojuegos
-
-Repositorio de trabajos y proyectos de la asignatura
+Repositorio para proyectos de la asignatura FDV- 2022/23
