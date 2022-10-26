@@ -1,5 +1,6 @@
-# :cactus: Noa Dionis Aragón :cactus: FDV
-#### Repositorio de la asignatura *Fundamentos del Desarrollo de Videojuegos*
+# FDV :video_game: Noa Dionis Aragón
+#### Repositorio de la asignatura *Fundamentos del Desarrollo de Videojuegos* Curso 2022/23
+
 
 ◾ Semana 1 [Práctica 1](https://github.com/Errasiada/NoaDionisFDV/tree/FDV-Practice): introducción a [UNITY](https://unity.com/es)
 
