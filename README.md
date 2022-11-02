@@ -11,3 +11,5 @@
  ◾ Semanas 4 y 5 [Práctica 3](https://github.com/Errasiada/FDV_3): Scripts en Unity
  
  ◾ Semana 6 [Práctica 4](https://github.com/Errasiada/FDV_4/tree/main): Control de Eventos
+
+ ◾ Semana 7 [Práctica 5](https://github.com/Errasiada/FDV_5): Waypoints
