@@ -17,3 +17,5 @@
  ◾ Semana 8 [EXAMEN](https://github.com/Errasiada/FDVExam) y [Práctica 6](https://github.com/Errasiada/FDV_6): Sprites 2D
  
  ◾ Semana 9 [Práctica 7](https://github.com/Errasiada/FDV_7): Tilemaps
+ 
+ ◾ Semana 10 [Práctica 87](https://github.com/Errasiada/FDV_8): Controlador de cámara
